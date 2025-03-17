@@ -1,8 +1,9 @@
 pyrogram
 tgcrypto
 requests
-opencv-python
 numpy
 pdf2image
 yt-dlp
 ffmpeg-python
+opencv-contrib-python-headless
+
